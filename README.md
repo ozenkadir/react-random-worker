@@ -1,4 +1,4 @@
-# ScreenShot:
+# Screenshot:
 ![random](https://github.com/ozenkadir/react-random-worker/assets/92018201/1996d2c2-3811-4fe5-9823-9f9222c4ee0a)
 
 
